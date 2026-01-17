@@ -1,4 +1,3 @@
-# console-calculator-java
 # Console-Based Java Calculator
 
 ## Description
